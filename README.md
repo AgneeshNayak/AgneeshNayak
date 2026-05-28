@@ -1,14 +1,16 @@
 <div align="center">
 
-<!-- HEADER ANIMATION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:00d4ff&height=220&section=header&text=Agneesh%20Nayak&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20the%20Web%2C%20One%20Line%20at%20a%20Time&descSize=18&descAlignY=55&descColor=00d4ff" width="100%"/>
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,70:0f3460,100:00d4ff&height=250&section=header&text=Agneesh%20Nayak&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20CSE%203rd%20Year%20%7C%20India&descSize=18&descAlignY=58&descColor=00d4ff" width="100%"/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Agneesh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;3rd+Year+CSE+Engineering+Student+%F0%9F%8E%93;Passionate+about+Clean+Code+%E2%9C%A8;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00D4FF&center=true&vCenter=true&random=false&width=650&lines=%F0%9F%91%8B+Hey!+I'm+Agneesh;%E2%9A%A1+Full+Stack+Developer;%F0%9F%8E%93+3rd+Year+CSE+Student;%F0%9F%9A%80+Building%3A+AI-powered+web+apps;%F0%9F%92%A1+Code+is+poetry+written+in+logic;%F0%9F%8C%B1+Open+to%3A+Internships+%26+OSS+collaboration" alt="Typing SVG" /></a>
 
 </div>
 
-<!-- ABOUT ME SECTION -->
+---
+
+<!-- ABOUT ME -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
 
 ```yaml
@@ -16,24 +18,25 @@ name: Agneesh Nayak
 role: Full Stack Developer
 education: 3rd Year CSE Engineering Student
 location: India 🇮🇳
-current_focus: Building scalable web applications
+current_focus: Building scalable, AI-powered web applications
+open_to: Internships & Open-Source Collaboration
 motto: "Code is poetry written in logic"
 ```
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding gif"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
 
-- 🔭 &nbsp;Currently building **full-stack projects** to sharpen my craft
+- 🔭 &nbsp;Currently building **full-stack projects** with modern architectures
 - 🌱 &nbsp;Exploring **advanced React patterns** & **system design**
-- 🎯 &nbsp;**2026 Goals:** Contribute to Open Source & land a great internship
-- 💡 &nbsp;I love turning complex problems into simple, beautiful solutions
+- 🎯 &nbsp;**2026 Goals:** Land a great internship & contribute to OSS
+- 💡 &nbsp;I love turning complex problems into simple, elegant solutions
 - ⚡ &nbsp;Fun fact: I debug with `console.log` and I'm not ashamed 😄
-- 🎮 &nbsp;When AFK: Gaming | Exploring Tech Blogs | Coffee ☕
+- 🎮 &nbsp;When AFK: Gaming | Tech Blogs | Coffee ☕
 
 <br clear="right"/>
 
 ---
 
-<!-- TECH STACK -->
+<!-- TECH ARSENAL -->
 ## 🛠️ &nbsp;Tech Arsenal
 
 <div align="center">
@@ -74,19 +77,19 @@ motto: "Code is poetry written in logic"
 
 ---
 
-<!-- GITHUB STATS -->
+<!-- GITHUB ANALYTICS -->
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AgneeshNayak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff" alt="Agneesh's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AgneeshNayak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgneeshNayak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgneeshNayak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8&hide=html" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgneeshNayak&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgneeshNayak&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak" width="70%"/>
 </div>
 
 <br/>
@@ -97,20 +100,29 @@ motto: "Code is poetry written in logic"
 
 ---
 
+<!-- GITHUB TROPHIES -->
+## 🏆 &nbsp;GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AgneeshNayak&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="90%"/>
+</div>
+
+---
+
 <!-- CONTRIBUTION SNAKE -->
 ## 🐍 &nbsp;Contribution Snake
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AgneeshNayak/AgneeshNayak/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AgneeshNayak/AgneeshNayak/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/AgneeshNayak/AgneeshNayak/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AgneeshNayak/AgneeshNayak/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AgneeshNayak/AgneeshNayak/output/github-contribution-grid-snake.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/AgneeshNayak/AgneeshNayak/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
 
 ---
 
-<!-- RANDOM DEV QUOTE -->
+<!-- DEV QUOTE -->
 ## 💭 &nbsp;Dev Quote of the Day
 
 <div align="center">
@@ -119,7 +131,7 @@ motto: "Code is poetry written in logic"
 
 ---
 
-<!-- CONNECT WITH ME -->
+<!-- CONNECT -->
 ## 🤝 &nbsp;Let's Connect!
 
 <div align="center">
@@ -138,24 +150,23 @@ motto: "Code is poetry written in logic"
 
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AgneeshNayak&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views"/>
-</div>
-
 ---
 
 <!-- FOOTER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:00d4ff&height=120&section=footer" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=AgneeshNayak&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views"/>
+
+<br/><br/>
 
 <b>⭐ If you like my work, consider giving a star to my repos!</b>
 
-<br/>
-<br/>
+<br/><br/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> — if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,70:0f3460,100:00d4ff&height=120&section=footer" width="100%"/>
 
 </div>
