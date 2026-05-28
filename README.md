@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,70:0f3460,100:00d4ff&height=250&section=header&text=Agneesh%20Nayak&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20CSE%203rd%20Year%20%7C%20India&descSize=18&descAlignY=58&descColor=00d4ff" width="100%"/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00D4FF&center=true&vCenter=true&random=false&width=650&lines=%F0%9F%91%8B+Hey!+I'm+Agneesh;%E2%9A%A1+Full+Stack+Developer;%F0%9F%8E%93+3rd+Year+CSE+Student;%F0%9F%9A%80+Building%3A+AI-powered+web+apps;%F0%9F%92%A1+Code+is+poetry+written+in+logic;%F0%9F%8C%B1+Open+to%3A+Internships+%26+OSS+collaboration" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00D4FF&center=true&vCenter=true&random=false&width=620&lines=%F0%9F%91%8B+Hey!+I'm+Agneesh;%E2%9A%A1+Full+Stack+Developer;%F0%9F%8E%93+3rd+Year+CSE+Student;%F0%9F%9A%80+Building%3A+AI-powered+web+apps;%F0%9F%92%A1+Code+is+poetry+written+in+logic;%F0%9F%8C%B1+Open+to%3A+Internships+%26+OSS+collaboration" alt="Typing SVG" /></a>
 
 </div>
 
@@ -19,18 +19,17 @@ role: Full Stack Developer
 education: 3rd Year CSE Engineering Student
 location: India 🇮🇳
 current_focus: Building scalable, AI-powered web applications
-open_to: Internships & Open-Source Collaboration
 motto: "Code is poetry written in logic"
 ```
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
 
-- 🔭 &nbsp;Currently building **full-stack projects** with modern architectures
-- 🌱 &nbsp;Exploring **advanced React patterns** & **system design**
+- 🔭 &nbsp;Currently crafting **full-stack projects** that solve real problems
+- 🌱 &nbsp;Diving deep into **advanced React patterns** & **system design**
 - 🎯 &nbsp;**2026 Goals:** Land a great internship & contribute to OSS
-- 💡 &nbsp;I love turning complex problems into simple, elegant solutions
-- ⚡ &nbsp;Fun fact: I debug with `console.log` and I'm not ashamed 😄
-- 🎮 &nbsp;When AFK: Gaming | Tech Blogs | Coffee ☕
+- 💡 &nbsp;I turn complex problems into clean, elegant solutions
+- ⚡ &nbsp;Fun fact: I debug with `console.log` and own it 😄
+- 🤝 &nbsp;Open to **collaborations** on meaningful projects
 
 <br clear="right"/>
 
@@ -81,35 +80,26 @@ motto: "Code is poetry written in logic"
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AgneeshNayak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AgneeshNayak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgneeshNayak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8&hide=html" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgneeshNayak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgneeshNayak&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak" width="70%"/>
+  <img src="https://streak-stats.demolab.com/?user=AgneeshNayak&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak" width="70%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AgneeshNayak&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area_color=0d1117&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AgneeshNayak&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area_color=0d1117&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
 </div>
 
 ---
 
-<!-- GITHUB TROPHIES -->
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AgneeshNayak&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="90%"/>
-</div>
-
----
-
-<!-- CONTRIBUTION SNAKE -->
+<!-- GITHUB SNAKE -->
 ## 🐍 &nbsp;Contribution Snake
 
 <div align="center">
@@ -126,7 +116,16 @@ motto: "Code is poetry written in logic"
 ## 💭 &nbsp;Dev Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</div>
+
+---
+
+<!-- TROPHIES -->
+## 🏆 &nbsp;GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AgneeshNayak&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -159,14 +158,12 @@ motto: "Code is poetry written in logic"
 
 <br/><br/>
 
-<b>⭐ If you like my work, consider giving a star to my repos!</b>
-
-<br/><br/>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> — if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
-
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,70:0f3460,100:00d4ff&height=120&section=footer" width="100%"/>
+
+<b>⭐ If you find my work interesting, consider giving a star!</b>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <em><b>I love connecting with people</b> — if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
 
 </div>
