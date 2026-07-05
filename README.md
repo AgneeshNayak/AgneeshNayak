@@ -16,7 +16,7 @@
 ```yaml
 name: Agneesh Nayak
 role: Full Stack Developer
-education: 3rd Year CSE Engineering Student
+education: 4th Year CSE Engineering Student
 location: India 🇮🇳
 current_focus: Building scalable, AI-powered web applications
 motto: "Code is poetry written in logic"
