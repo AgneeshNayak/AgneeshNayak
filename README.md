@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,70:0f3460,100:00d4ff&height=250&section=header&text=Agneesh%20Nayak&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20CSE%203rd%20Year%20%7C%20India&descSize=18&descAlignY=58&descColor=00d4ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,70:0f3460,100:00d4ff&height=250&section=header&text=Agneesh%20Nayak&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20CSE%204th%20Year%20%7C%20India&descSize=18&descAlignY=58&descColor=00d4ff" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00D4FF&center=true&vCenter=true&random=false&width=620&lines=%F0%9F%91%8B+Hey!+I'm+Agneesh;%E2%9A%A1+Full+Stack+Developer;%F0%9F%8E%93+4th+Year+CSE+Student;%F0%9F%9A%80+Building%3A+AI-powered+web+apps;%F0%9F%92%A1+Code+is+poetry+written+in+logic;%F0%9F%8C%B1+Open+to%3A+Internships+%26+OSS+collaboration" alt="Typing SVG" /></a>
