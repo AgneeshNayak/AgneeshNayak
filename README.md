@@ -80,9 +80,9 @@ motto: "Code is poetry written in logic"
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AgneeshNayak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=AgneeshNayak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AgneeshNayak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AgneeshNayak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br/>
@@ -103,20 +103,7 @@ motto: "Code is poetry written in logic"
 ## 🐍 &nbsp;Contribution Snake
 
 <div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/AgneeshNayak/AgneeshNayak/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/AgneeshNayak/AgneeshNayak/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/AgneeshNayak/AgneeshNayak/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AgneeshNayak/AgneeshNayak/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 ---
@@ -134,7 +121,7 @@ motto: "Code is poetry written in logic"
 ## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=AgneeshNayak&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AgneeshNayak&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/></a>
 </div>
 
 ---
